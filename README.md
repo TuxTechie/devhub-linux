@@ -16,7 +16,7 @@ cd devhub-linux
 ```
 Make the script executable:
 ```bash
-chmod +x devsetup.sh
+chmod +x devhub-linux.sh
 ```
 Run the script:
 ```bash
@@ -36,7 +36,7 @@ Upon running the script, you will be prompted to select the tools you want to in
 - Slack
 - Ansible
 - htop
--Google Chrome
+- Google Chrome
 - Postman
 - ESLint
 - Prettier
