@@ -9,16 +9,16 @@ DevHub Linux is an interactive developer environment setup tool that helps you q
 - Support for custom package installation
 
 ## Installation
-Clone the repository and navigate to the project directory:
+1. Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/TuxTechie/devhub-linux.git
 cd devhub-linux
 ```
-Make the script executable:
+2. Make the script executable:
 ```bash
 chmod +x devhub-linux.sh
 ```
-Run the script:
+3. Run the script:
 ```bash
 ./devhub-linux.sh
 ```
